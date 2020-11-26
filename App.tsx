@@ -38,6 +38,7 @@ const App = () => {
   if (hasPermission === false) {
     return <Text>No access to camera</Text>;
   }
+  
 
 
   return (
